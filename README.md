@@ -1,5 +1,3 @@
-# HOI4-Balance-Mod
+# Historical Changes
 
-Thanks for checking out our mod! This mod is desiegned to increase difficulty and 
-make the game more historical. We can not be held responsible for any issues you 
-encounter especialy when you use another mod so use at toyur own risk.
+This section of the mod edits things such as national focuses, events, country localisations and ids, and history files of countries, all with the intention of increasing overall historical accuracy. These changes are largely cosmetic and superficial, with little change of game mechanics/
